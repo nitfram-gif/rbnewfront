@@ -163,7 +163,7 @@
         <div class="StageSearch_stage-search__content__ZT6Y_" bis_skin_checked="1"><span
                 class="StageSearch_stage-search__kicker__Go9_q">RED&nbsp;BULL JOBS</span>
             <h1 class="StageSearch_stage-search__heading__WlXYW">Your Journey Starts here</h1>
-            <h3 class="stagebottomtext">Social Media Manager</h3>
+            <h3 class="stagebottomtext">Digital Marketing Manager</h3>
         </div>
     </div>
 
@@ -176,8 +176,7 @@
 
                 <div class="input-boxxx mt-3">
                     <div>
-                        <span class="redtoptex break-on-small ">Ready to take your career to the next level as a Social
-                            Media Manager at Red Bull?
+                        <span class="redtoptex break-on-small ">Ready to take your career to the next level as a Digital Marketing Manager at Red Bull?
                         </span> </span>
                     </div>
                     <div>
