@@ -52,7 +52,7 @@
 
 <body>
     
-<div class="calendly-inline-widget" data-url="https://calendly.com/redbulljobs/30min" style="min-width:320px;height:700px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/redbullrecruitment/30min" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
 </body>
